@@ -1,7 +1,7 @@
 # Hi there, I'm Srujan Reddy 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srujanreddy2021/srujanreddy2021/main/banner.png" alt="Banner" width="100%">
+  <img src="Ponnapureddy srujan reddy banner.png" alt="Banner" width="100%">
 </p>
 
 ## 🎓 About Me
