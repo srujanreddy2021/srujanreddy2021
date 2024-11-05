@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm an Electronics and Communication Engineering student passionate about **Data Science**, **Deep Learning**, **AI**, and **EdgeAI**. I have a strong foundation in Python, Machine Learning, and Deep Learning frameworks like **TensorFlow** and **PyTorch**. I'm always eager to learn and collaborate on innovative projects.
+I'm an **Electronics and Communication Engineering** student passionate about **Data Science**, **Deep Learning**, **AI**, and **EdgeAI**. I have a strong foundation in Python, Machine Learning, and Deep Learning frameworks like **TensorFlow** and **PyTorch**. I'm always eager to learn and collaborate on innovative projects.
 
 ## 🔍 My Skills
 
