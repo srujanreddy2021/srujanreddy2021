@@ -60,7 +60,7 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 
 - **Tech Stack**: Figma
 - Developed a UI/UX design providing a list of top-rated nearby restaurants, including menus and reviews.
-- **[Prototype Link](https://www.figma.com/proto/ebg3d6xjjumX6lCo1tD3xc/hangout-mobile-design?node-id=28-372&node-type=canvas&t=6yoRRLquPUOOPu6E-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)**
+- **[Prototype Link](https://www.figma.com/proto/ebg3d6xjjumX6lCo1tD3xc/hangout-mobile-design?node-id=0-1&t=Xo7azarFdldB7qys-1)**
 
 ## 🎓 Education and Certifications
 
