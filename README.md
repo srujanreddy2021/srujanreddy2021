@@ -72,7 +72,11 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 - **Minor in Artificial Intelligence and Machine Learning**
 - **Amazon ML Summer School 2024**
 - **Six-Month Training Program on AI and ML at IIIT Hyderabad**
-- **NPTEL Certifications**: Problem Solving through Programming in C, Digital Circuits, Introduction to Semiconductors
+- **NPTEL Certifications**:
+  - Problem Solving through Programming in C
+  - Digital Circuits,
+  - Introduction to Semiconductors
+  - Microprocessors and Microcontrollers
 
 ## 💼 Experience
 
