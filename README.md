@@ -55,8 +55,10 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 
 ### 4. **Restaurant Recommender Foodie Social App UI/UX**
 <p align="center">
-  <img src="hangout mobile design/Home page.png" alt="Restaurant Recommender" width="40%">
-  <img src="hangout mobile design/Home page.png" alt="Restaurant Recommender" width="40%">
+  <img src="hangout mobile design/Home page.png" alt="Home Page" width="20%">
+  <img src="hangout mobile design/Explorer view all.png" alt="Explorer View All" width="20%">
+  <img src="hangout mobile design/explorer.png" alt="Explorer" width="20%">
+  <img src="hangout mobile design/Restaruant interface.png" alt="Restaurant Interface" width="20%">
   
 </p>
 
