@@ -55,8 +55,8 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 
 ### 4. **Restaurant Recommender Foodie Social App UI/UX**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srujanreddy2021/srujanreddy2021/main/restaurant-recommender.png" alt="Restaurant Recommender" width="40%">
-  <img src="https://raw.githubusercontent.com/srujanreddy2021/srujanreddy2021/main/restaurant-recommender.png" alt="Restaurant Recommender" width="40%">
+  <img src="hangout mobile design/Home page.png" alt="Restaurant Recommender" width="40%">
+  <img src="hangout mobile design/Home page.png" alt="Restaurant Recommender" width="40%">
   
 </p>
 
